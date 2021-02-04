@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.619793pt" height="8.234375pt" viewBox="0 0 27.619793 8.234375" version="1.1">
+<defs>
+<g>
+<symbol overflow="visible" id="glyph0-0">
+<path style="stroke:none;" d="M 5.390625 -7.75 L 5.390625 -7.9375 L 0.953125 -7.9375 L 0.234375 -6.1875 L 0.453125 -6.078125 C 0.953125 -6.890625 1.15625 -7.0625 1.859375 -7.0625 L 4.4375 -7.0625 L 2.0625 0.09375 L 2.84375 0.09375 Z M 5.390625 -7.75 "/>
+</symbol>
+<symbol overflow="visible" id="glyph0-1">
+<path style="stroke:none;" d="M 7.15625 -0.265625 L 4.40625 -3.03125 L 7.15625 -5.8125 L 6.609375 -6.34375 L 3.84375 -3.59375 L 1.078125 -6.34375 L 0.515625 -5.796875 L 3.28125 -3.03125 L 0.515625 -0.25 L 1.0625 0.296875 L 3.84375 -2.453125 L 6.609375 0.296875 Z M 7.15625 -0.265625 "/>
+</symbol>
+</g>
+</defs>
+<g id="surface1">
+<g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
+  <use xlink:href="#glyph0-0" x="0.433594" y="7.9375"/>
+</g>
+<g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
+  <use xlink:href="#glyph0-1" x="9.972656" y="7.9375"/>
+</g>
+<g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
+  <use xlink:href="#glyph0-0" x="21.5625" y="7.9375"/>
+</g>
+</g>
+</svg>
